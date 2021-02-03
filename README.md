@@ -1,2 +1,4 @@
 # piano-tiles
-this thing pianos the tiles like a champ
+Pianos the tiles with an autoclicker.
+
+Works with the game found here: ttp://tanksw.com/piano-tiles/
